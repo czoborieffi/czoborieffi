@@ -47,9 +47,3 @@
 
 ---
 
-### 📊 GitHub Analytics & Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=czoborieffi&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=czoborieffi&layout=compact&theme=dracula&hide_border=true&langs_count=7" width="48%" />
-</p>
