@@ -9,8 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/efficzobori"><img src="https://img.shields.io/badge/LinkedIn-d4e5ff?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:czobori.effi@gmail.com"><img src="https://img.shields.io/badge/Email-d4e5ff?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/efficzobori"><img src="https://img.shields.io/badge/LinkedIn-b4d4ff?style=flat-square&logo=linkedin&logoColor=334155" /></a>
+  <a href="mailto:czobori.effi@gmail.com"><img src="https://img.shields.io/badge/Email-b4d4ff?style=flat-square&logo=gmail&logoColor=334155" /></a>
+  <a href="./Effi_Czobori_CV_EN.pdf" target="_blank"><img src="https://img.shields.io/badge/Resume-b4d4ff?style=flat-square&logo=read-the-docs&logoColor=334155" /></a>
 </p>
 
 </div>
