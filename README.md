@@ -47,3 +47,10 @@
   * 🏫 VSZC Boronkay György Technical School and High School
 
 ---
+
+### 🤍 Active Projects & Explorations 🫧
+
+- **[sound-fetcher](https://github.com/czoborieffi/sound-fetcher)**
+  * 🎵 A minimal Python utility to effortlessly download YouTube playlists as clean MP3s for car USB drives.
+- **moolah** *(in progress)*
+  * 💳 Personal finance and investment tracking application built with Python, SQLite, and FastAPI.
